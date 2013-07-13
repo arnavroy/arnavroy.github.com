@@ -3,6 +3,18 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">
+{% for tag in page.categories %}
+  {% if forloop.index0 == 0 %}
+    Tags:
+  {% endif  %}
+  {{ tag }}
+  {% if forloop.index != forloop.length - 1 %}
+    |
+  {% endif  %}
+{% endfor %}
+</p>
+
 
 <div class="post">
 {{ content }}
