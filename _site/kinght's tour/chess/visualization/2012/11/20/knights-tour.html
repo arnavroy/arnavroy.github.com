@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Knight's Tour</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">Thoughts on Life, The Universe and Everything.</a></h1>
+              <a class="extra" href="/">home</a>
+            </div>
+
+                <h2>Knight's Tour</h2>
+<p class="meta">20 Nov 2012</p>
+
+<div class="post">
+<p><a href="http://en.wikipedia.org/wiki/Knight's_tour">Knight's tour</a> is a sequence of moves a knight makes  on a chessboard such that it visits every cell exactly once.</p>
+
+<!-- more -->
+
+
+<p>Here I'll be using <a href="http://en.wikipedia.org/wiki/Knight's_tour#Warnsdorff.27s_rule">Warnsdorff's Rule</a> to find out a single tour considering every cell in a 8x8 Chess board as a starting point, one by one.</p>
+
+<p>Simply put, Warnsdorff's Rule is a heuristic method which states that a Knight should always visit a cell that has maximum number of unvisited neighbours. A quick and dirty implementation can be found at <a href="https://gist.github.com/4116931">https://gist.github.com/4116931</a>.</p>
+
+<p>Here's my attempt at <a href="http://arnavroy.github.com/knight-tour-visualization/">visualizing the tour</a> using <a href="https://developer.mozilla.org/en-US/docs/HTML/Canvas">HTML5 Canvas</a>:</p>
+
+<div style="width: 100%; height: 100%;">
+    <iframe src="http://arnavroy.github.com/knight-tour-visualization/" style="width: 100%; height: 100%;"></iframe>
+</div>
+
+
+
+
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  Your Name<br />
+                  What You Are<br />
+                  your@email.com
+                </p>
+              </div>
+              <div class="contact">
+                <p>
+                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
+                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
+                </p>
+              </div>
+            </div>
+          </div>
+        </div> <!-- /container -->
+
+    </body>
+</html>
