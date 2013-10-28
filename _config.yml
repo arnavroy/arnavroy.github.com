@@ -4,7 +4,7 @@ logo:             favicon.png
 disqus_shortname: arnavroy
 search:           false
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://arnavroy.com
 
 # Owner/author information
 owner:
