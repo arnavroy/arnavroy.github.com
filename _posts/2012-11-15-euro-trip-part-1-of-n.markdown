@@ -4,11 +4,11 @@ title: "Euro trip: Part 1 of N"
 date: 2012-11-15 15:06
 comments: true
 published: true
-categories: [Europe, Travelogue]  
+tags: [Europe, Travelogue]  
 ---
 
 This post is a brain dump about my short trip to Europe in the month of May'12. I have tried to jot down whatever I remember in a tl;dr fashion.
-<!-- more -->
+
 1. Zurich
     * Apps/Sites/Cards: [Swiss Rail Android App](http://www.sbb.ch/en/timetable/mobile-timetables/mobile-apps/sbb-mobile-android.html), [Swiss Flexi Pass](http://www.swiss-pass.ch/en/swiss-flexi-pass#.UKXC3uOe_bw) 
     * Hostel: [Backpackers Villa Sonnenhof at Interlaken](http://www.hostelworld.com/hosteldetails.php/Backpackers-Villa-Sonnenhof/Interlaken/30745)

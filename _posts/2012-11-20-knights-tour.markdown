@@ -3,10 +3,9 @@ layout: post
 title: "Knight's Tour"
 date: 2012-11-20 14:47
 comments: true
-categories: [Kinght's Tour, Chess, Visualization] 
+tags: [Kinght's Tour, Chess, Visualization] 
 ---
 [Knight's tour](http://en.wikipedia.org/wiki/Knight's_tour) is a sequence of moves a knight makes  on a chessboard such that it visits every cell exactly once.
-<!-- more -->
 
 Here I'll be using [Warnsdorff's Rule](http://en.wikipedia.org/wiki/Knight's_tour#Warnsdorff.27s_rule) to find out a single tour considering every cell in a 8x8 Chess board as a starting point, one by one.
 
