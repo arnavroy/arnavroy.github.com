@@ -44,7 +44,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:title
+permalink:   /blog/:title
 
 kramdown:
   auto_ids: true
