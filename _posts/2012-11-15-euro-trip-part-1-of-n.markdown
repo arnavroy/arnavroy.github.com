@@ -7,7 +7,7 @@ published: true
 tags: [Europe, Travelogue]  
 ---
 
-Here goes a brain dump of my short trip to Europe in the month of May 2012. I have tried to jot down whatever I remember in a tl;dr fashion. Following is a list of the major cities I visited and the highlights:
+Here goes a brain dump of my short trip to Europe in the month of May, 2012. I have tried to jot down whatever I remember in a tl;dr fashion. Following is a list of the major cities I visited and the highlights:
 
 1. Zurich
     * Apps/Sites/Cards: [Swiss Rail Android App](http://www.sbb.ch/en/timetable/mobile-timetables/mobile-apps/sbb-mobile-android.html), [Swiss Flexi Pass](http://www.swiss-pass.ch/en/swiss-flexi-pass#.UKXC3uOe_bw) 
